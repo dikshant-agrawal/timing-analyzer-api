@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="AMA_EOS_Lab_01\PreDesign01\TopDesign">
+<ExpandedNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\TopDesign</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Pins</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Analog</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Clocks</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Interrupts</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\DMA</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\System</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Directives</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Flash Security</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\EEPROM</v>
+<v>AMA_EOS_Lab_01\PreDesign01\asw</v>
+<v>AMA_EOS_Lab_01\PreDesign01\asw\cyapicallbacks.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\asw\main.c</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\analyzer.c</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\analyzer.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\math_helper.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\ringbuffer.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\derivate.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\global.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\isr_timer_1</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\TopDesign</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Pins</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Analog</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Clocks</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Interrupts</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\DMA</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\System</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Directives</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\Flash Security</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.cydwr\EEPROM</v>
+<v>AMA_EOS_Lab_01\PreDesign01\asw</v>
+<v>AMA_EOS_Lab_01\PreDesign01\asw\cyapicallbacks.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\asw\main.c</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\analyzer.c</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\analyzer.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\math_helper.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\services\ringbuffer.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\derivate.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\bsw\global.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cy_boot</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\isr_timer_1</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\isr_timer_1\isr_timer_1.c</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\isr_timer_1\isr_timer_1.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\isr_timer_2</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\LED_green</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\LED_red</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\LED_yellow</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\Logic_1</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\Logic_2</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\Timer_1</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\Timer_2</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\timer_clock_1</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\UART</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\UART_IntClock</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cydevice.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Generated_Source\PSoC5\cydevicegnu.inc</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\TopDesign</v>
+<v>AMA_EOS_Lab_01\PreDesign01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\TopDesign</v>
+<v>AMA_EOS_Lab_01\PreDesign01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\analyzer.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_timer_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_timer_2.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_green.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_red.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_yellow.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Logic_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Logic_2.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_2.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_2_PM.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\timer_clock_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\PreDesign01.elf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\PreDesign01.hex</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\PreDesign01.map</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.gpdsc</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.rpt</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\analyzer.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_timer_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_timer_2.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_green.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_red.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_yellow.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Logic_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Logic_2.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_2.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_2_PM.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\timer_clock_1.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\PreDesign01.elf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\PreDesign01.hex</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CortexM3\ARM_GCC_541\Debug\PreDesign01.map</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.gpdsc</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01.rpt</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PreDesign01_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PSoC 5LP Architecture TRM</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CY8C58LP Family Datasheet</v>
+<v>AMA_EOS_Lab_01\PreDesign01\System Reference Guides</v>
+<v>AMA_EOS_Lab_01\PreDesign01\System Reference Guides\cy_boot_v6_0</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_clock_v2_20</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_isr_v1_71</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_pins_v2_20</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Timer_v2_80</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Timer_v2_80\Timer_v2_80.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\UART_v2_50.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\ZeroTerminal</v>
+<v>AMA_EOS_Lab_01\PreDesign01\ZeroTerminal\ZeroTerminal.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>AMA_EOS_Lab_01</v>
+<v>AMA_EOS_Lab_01\PreDesign01</v>
+<v>AMA_EOS_Lab_01\PreDesign01\PSoC 5LP Architecture TRM</v>
+<v>AMA_EOS_Lab_01\PreDesign01\CY8C58LP Family Datasheet</v>
+<v>AMA_EOS_Lab_01\PreDesign01\System Reference Guides</v>
+<v>AMA_EOS_Lab_01\PreDesign01\System Reference Guides\cy_boot_v6_0</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_clock_v2_20</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_isr_v1_71</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_pins_v2_20</v>
+<v>AMA_EOS_Lab_01\PreDesign01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Timer_v2_80</v>
+<v>AMA_EOS_Lab_01\PreDesign01\Timer_v2_80\Timer_v2_80.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\UART_v2_50.pdf</v>
+<v>AMA_EOS_Lab_01\PreDesign01\ZeroTerminal</v>
+<v>AMA_EOS_Lab_01\PreDesign01\ZeroTerminal\ZeroTerminal.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\PreDesign01.cydsn\main.c" />
+<name v=".\PreDesign01.cydsn\analyzer.c" />
+<name v=".\PreDesign01.cydsn\analyzer.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1559, 654" SelectedTabbedMdiWindow="7c1ca66c-77c8-41cb-a819-6df6f5ed6863"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="7c1ca66c-77c8-41cb-a819-6df6f5ed6863" /><DocumentWindow Key="D:\Embedded\Assignment\AMA_EOS_Lab_01\PreDesign01.cydsn\main.c" Guid="f97fa81a-a1ae-4802-8f33-3ee3af04a8d4" /><DocumentWindow Key="D:\Embedded\Assignment\AMA_EOS_Lab_01\PreDesign01.cydsn\analyzer.c" Guid="fcc6a3fd-5d71-43bf-84d0-08aeb6a47105" /><DocumentWindow Key="D:\Embedded\Assignment\AMA_EOS_Lab_01\PreDesign01.cydsn\analyzer.h" Guid="4d76b92d-5a6f-4ad8-826b-587241dd6be5" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

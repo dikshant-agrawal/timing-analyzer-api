@@ -1,0 +1,8 @@
+codegentemp/
+CortexM3/
+Export/
+*.rpt
+*.cyfit
+*_timing.html
+*.cyprj.*
+Debug/
